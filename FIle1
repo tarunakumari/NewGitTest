@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<title> Best website ever </title>
+</head>
+<body>
+<h1> My name is  <strong> taruna </strong> </h1>
+
+<p> this  is  my  <em>website</em> </p>
+
+<hr/>
+
+<!—- this is just the  comment —>
+
+<a href =“http://www.google.com> this is  the  link </a> <br/>
+
+<a href=“helloworld.html”>this  the  second  page</a>
+
+</body>
+
+
+</html>
